@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MarcGabernet
-- 👀 I’m interested in NOTHING
-- 🌱 I’m currently learning NOTHING
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me SEND A CARD TO THE NORTH POLE
+- 👋 Hi, I’m Marc Gabernet Rodríguez
+- 👀 I’m interested in Videogame DEvelopment
+- 🌱 I’m currently learning Unity, C# and C++
+- 📫 Reach me @ marcgr01gualter@gmail.com
 
 <!---
 MarcGabernet/MarcGabernet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
