@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marc Gabernet Rodríguez
-- 👀 I’m interested in Videogame DEvelopment
+- 👀 I’m interested in Videogame Development
 - 🌱 I’m currently learning Unity, C# and C++
 - 📫 Reach me @ marcgr01gualter@gmail.com
 
